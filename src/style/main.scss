@@ -1,0 +1,11 @@
+@import './vendors/bootstrap/bootstrap.min';
+
+.hidden {
+  display: none !important;
+  opacity: 0;
+}
+
+.fadeIn {
+  opacity: 1;
+  display: block;
+}
