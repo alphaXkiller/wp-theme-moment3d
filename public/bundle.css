@@ -6174,6 +6174,26 @@ a.text-dark:focus, a.text-dark:hover {
 
 .invisible {
   visibility: hidden !important; }
+.custom-stepper .custom-stepper-toggle .fusion-title {
+  padding-left: 40px; }
+
+.custom-stepper .custom-stepper-toggle .fusion-toggle-icon-wrapper {
+  display: none; }
+
+.custom-stepper .custom-stepper-toggle .fusion-toggle-heading {
+  font-size: 1vw; }
+  .custom-stepper .custom-stepper-toggle .fusion-toggle-heading strong {
+    font-size: 2vw; }
+
+.custom-stepper .custom-stepper-toggle .panel-body {
+  padding: 0 0 0 40px !important; }
+
+.fusion-portfolio-wrapper a {
+  pointer-events: none; }
+
+.fusion-footer-widget-area {
+  padding: 0px; }
+
 .hidden {
   display: none !important;
   opacity: 0; }

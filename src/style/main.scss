@@ -1,4 +1,7 @@
 @import './vendors/bootstrap/bootstrap.min';
+@import './components/toggle.scss';
+@import './components/portfolio.scss';
+@import './components/footer.scss';
 
 .hidden {
   display: none !important;
